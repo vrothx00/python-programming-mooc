@@ -10,7 +10,7 @@ The Introduction to Programming course consists of parts 1 through 7 in the mate
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 ## License
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License. See **LICENSE.txt** for more information.
 
 ## Contact
 Project Link: https://github.com/vrothx00/python-programming-mooc
